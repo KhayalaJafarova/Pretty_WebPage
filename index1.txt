@@ -1,0 +1,1619 @@
+<html>
+ <body>
+  <p>
+   b'
+   <!DOCTYPE html>
+  </p>
+  <title>
+   Oxu.az - Az\xc9\x99rbaycan X\xc9\x99b\xc9\x99rl\xc9\x99ri
+  </title>
+  <link href="https://assets.oxu.az/assets/favicons/favicon-192x192-5bdc49357f9c1b6c217a03e27d71447afd40644f2bc0b8c180962a0a3dd77457.png" rel="apple-touch-icon" sizes="192x192"/>
+  <link href="https://assets.oxu.az/assets/favicons/favicon-192x192-5bdc49357f9c1b6c217a03e27d71447afd40644f2bc0b8c180962a0a3dd77457.png" rel="icon" sizes="192x192" type="image/png"/>
+  <meta content="https://assets.oxu.az/assets/browserconfig-1cd46dcca62755af663cf397adb8c12d8a4ace4564530b85b87f74154411f352.xml" name="msapplication-config"/>
+  <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"/>
+  <meta content="100000786574968" property="fb:admins"/>
+  <meta content="100028792893697" property="fb:admins"/>
+  <meta content="100003186094975" property="fb:admins"/>
+  <meta content="421309791269484" property="fb:pages"/>
+  <meta content="251840290344" property="fb:pages"/>
+  <meta content="124961130953072" property="fb:pages"/>
+  <meta content="422547091132218" property="fb:pages"/>
+  <meta content="544768492255686" property="fb:pages"/>
+  <meta content="251840290344" property="fb:pages"/>
+  <meta content="237085196644930" property="fb:pages"/>
+  <meta content="300" http-equiv="refresh"/>
+  <meta content="https://oxu.az/" property="og:url"/>
+  <meta content="Oxu.Az" property="og:site_name"/>
+  <meta content="Az\xc9\x99rbaycan X\xc9\x99b\xc9\x99rl\xc9\x99ri" property="og:title"/>
+  <meta content="website" property="og:type"/>
+  <meta content="https://assets.oxu.az/assets/oxu/logo_share-207c13a53fbe8209638ea3819fee198f4a33628f4516c37f0e671b92c6a97394.png" property="og:image"/>
+  <meta content="345015945604715" property="fb:app_id"/>
+  <link href="/feed" rel="alternate" type="application/atom+xml"/>
+  <link href="https://assets.oxu.az/assets/oxu/favicon-be69a7e075f480d5feb0e455336bd049b79ebed51157a5919d2c46e975c6c1ad.ico" rel="shortcut icon" type="image/x-icon"/>
+  <link href="https://assets.oxu.az/assets/application-283a28a047d5e3ea727163d7e5a8635542e0e0e5606ee234d21a3d841ea6e536.css" media="screen" rel="stylesheet"/>
+  <link href="https://assets.oxu.az/assets/print-3b7e504c166785d21d1b8bc4e2768d5fc727dc8bfc5bb5366b0fbad0a3fabf2f.css" media="print" rel="stylesheet"/>
+  <link href="https://assets.oxu.az/assets/fonts/woff-3cdfcfe2e7866a214d1fe149a2822cb6c0fc52e8551821de0a359d1f69dc26d5.css" media="screen" rel="stylesheet"/>
+  <script src="https://assets.oxu.az/assets/application-158504f39fc5b4c57ea5fa4a4961ac7913d57f502368f3839d1c3a3249b1885f.js">
+  </script>
+  <script async="async" src="//platform.twitter.com/widgets.js">
+  </script>
+  <div class="body-inner">
+   <!-- Start Alexa Certify Javascript -->
+   \n
+   <script type="text/javascript">
+    \ndelete _atrk_fired;\n_atrk_opts = { atrk_acct:"AncMk1a4eFf24B", domain:"oxu.az",dynamic: true};\n(function() { var as = document.createElement(\'script\'); as.type = \'text/javascript\'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName(\'script\')[0];s.parentNode.insertBefore(as, s); })();\n
+   </script>
+   \n
+   <noscript>
+    <img alt="" height="1" src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=AncMk1a4eFf24B" style="display:none" width="1"/>
+   </noscript>
+   \n
+   <!-- End Alexa Certify Javascript -->
+   \n
+   <div class="header-bnr-container">
+    <div class="header-bnr large-only load-bnr">
+     <!--/*\n  *\n  * Revive Adserver Asynchronous JS Tag\n  * - Generated with Revive Adserver v3.2.4\n  *\n  */-->
+     \n\n
+     <ins data-revive-id="ac32dd91205982a13d2787f486af04f0" data-revive-videoheight="auto" data-revive-videowidth="640" data-revive-zoneid="911">
+     </ins>
+     \n
+     <script async="" src="//ads2.newmedia.az/www/delivery/asyncjs.php">
+     </script>
+     \n
+    </div>
+    <div class="header-bnr small-only load-bnr">
+     <!--/*\n  *\n  * Revive Adserver Asynchronous JS Tag\n  * - Generated with Revive Adserver v3.2.4\n  *\n  */-->
+     \n\n
+     <ins data-revive-id="ac32dd91205982a13d2787f486af04f0" data-revive-videoheight="auto" data-revive-videowidth="640" data-revive-zoneid="916">
+     </ins>
+     \n
+     <script async="" src="//ads2.newmedia.az/www/delivery/asyncjs.php">
+     </script>
+     \n
+    </div>
+   </div>
+   <header class="header">
+    <div class="header-primary-holder">
+    </div>
+    <div class="header-primary">
+     <div class="l-center">
+      <div class="header-side">
+       <a class="oku-link" href="/pages/about">
+        Haqq\xc4\xb1m\xc4\xb1zda
+       </a>
+       <a class="oku-link" href="/pages/advertise">
+        Reklam
+       </a>
+       <div class="engage">
+        <a class="engage-i engage-i_facebook" href="//facebook.com/421309791269484" target="_blank">
+         Facebook
+        </a>
+        <a class="engage-i engage-i_twitter" href="//twitter.com/oxuaz" target="_blank">
+         Twitter
+        </a>
+        <a class="engage-i engage-i_android" href="https://play.google.com/store/apps/details?id=az.start.android.oxu" target="_blank">
+         Android App
+        </a>
+        <a class="engage-i engage-i_ios" href="https://itunes.apple.com/app/id634362981" target="_blank">
+         iOS App
+        </a>
+       </div>
+       <div class="search-toggle" title="Axtar\xc4\xb1\xc5\x9f">
+       </div>
+       <div class="search-container">
+        <form action="/all">
+         <input class="search-input" name="query" placeholder="Axtar\xc4\xb1\xc5\x9f" type="search"/>
+         <button class="search-submit" title="Axtar" type="submit" value="Axtar">
+         </button>
+        </form>
+       </div>
+       <a class="lang-switcher lang-switcher_ru" href="https://ru.oxu.az/">
+        ru
+       </a>
+      </div>
+      <a class="logo logo-oxu" href="/">
+       oxu.az
+      </a>
+      <div class="nav-toggle">
+       Kateqoriyalar
+      </div>
+     </div>
+    </div>
+    <div class="nav-holder">
+    </div>
+    <div class="nav-container">
+     <div class="l-center">
+      <nav class="nav">
+       <a class="nav-i nav-i_current" href="/">
+        Ba\xc5\x9f s\xc9\x99hif\xc9\x99
+       </a>
+       <a class="nav-i" href="/politics">
+        Siyas\xc9\x99t
+       </a>
+       <a class="nav-i" href="/economy">
+        \xc4\xb0qtisadiyyat
+       </a>
+       <a class="nav-i" href="/society">
+        C\xc9\x99miyy\xc9\x99t
+       </a>
+       <a class="nav-i" href="/war">
+        M\xc3\xbcharib\xc9\x99
+       </a>
+       <a class="nav-i" href="/showbiz">
+        \xc5\x9eou-biznes
+       </a>
+       <a class="nav-i" href="/sport">
+        \xc4\xb0dman
+       </a>
+       <a class="nav-i" href="/criminal">
+        Kriminal
+       </a>
+       <a class="nav-i" href="/culture">
+        M\xc9\x99d\xc9\x99niyy\xc9\x99t
+       </a>
+       <a class="nav-i" href="/world">
+        D\xc3\xbcnya
+       </a>
+       <a class="nav-i" href="/auto-moto">
+        Avto-Moto
+       </a>
+       <a class="nav-i" href="/ict">
+        \xc4\xb0KT
+       </a>
+       <a class="nav-i" href="/turism">
+        Turizm
+       </a>
+       <a class="nav-i" href="/interesting">
+        Maraql\xc4\xb1
+       </a>
+       <a class="nav-i" href="/interview">
+        M\xc3\xbcsahib\xc9\x99
+       </a>
+       <a class="nav-i" href="/tv">
+        Baku TV
+       </a>
+      </nav>
+     </div>
+     <div class="nav-banner-container load-bnr">
+      <div class="l-center">
+       <a class="nav-i nav-i_all" href="/all">
+        B\xc3\xbct\xc3\xbcn x\xc9\x99b\xc9\x99rl\xc9\x99r
+       </a>
+      </div>
+     </div>
+    </div>
+   </header>
+   <div class="page-content">
+    <div class="l-center">
+     <section class="featured-container">
+      <div class="featured-nav">
+       <a class="featured-nav-i" href="/politics/287648" target="_blank">
+        <span class="featured-nav-i-inner">
+         Milanda M\xc9\x99mm\xc9\x99dyarov - Mnatsakanyan g\xc3\xb6r\xc3\xbc\xc5\x9f\xc3\xbc ke\xc3\xa7irilir
+        </span>
+        <span class="valign">
+        </span>
+       </a>
+       <a class="featured-nav-i" href="/war/287638" target="_blank">
+        <span class="featured-nav-i-inner">
+         M\xc3\xbcdafi\xc9\x99 naziri c\xc9\x99bh\xc9\x99 zonas\xc4\xb1nda \xe2\x80\x93 FOTO\\V\xc4\xb0DEO
+        </span>
+        <span class="valign">
+        </span>
+       </a>
+       <a class="featured-nav-i" href="/politics/287599" target="_blank">
+        <span class="featured-nav-i-inner">
+         D\xc3\xb6vl\xc9\x99t Gerbi v\xc9\x99 D\xc3\xb6vl\xc9\x99t Himni haqq\xc4\xb1nda  yeni qanunlar olacaq
+        </span>
+        <span class="valign">
+        </span>
+       </a>
+       <a class="featured-nav-i" href="/society/287584" target="_blank">
+        <span class="featured-nav-i-inner">
+         \xc4\xb0cbari tibbi s\xc4\xb1\xc4\x9fortaya daxil olmayan xidm\xc9\x99tl\xc9\x99r - S\xc4\xb0YAHI
+        </span>
+        <span class="valign">
+        </span>
+       </a>
+       <a class="featured-nav-i" href="/politics/287520" target="_blank">
+        <span class="featured-nav-i-inner">
+         \xc4\xb0lham \xc6\x8fliyev AB\xc5\x9e s\xc9\x99firliyind\xc9\x99 - FOTO + YEN\xc4\xb0L\xc6\x8fN\xc4\xb0B
+        </span>
+        <span class="valign">
+        </span>
+       </a>
+      </div>
+      <div class="featured">
+       <div class="featured-switch featured-switch_disabled featured-switch_prev">
+        \xe2\x86\x90
+       </div>
+       <div class="featured-switch featured-switch_next">
+        \xe2\x86\x92
+       </div>
+       <div class="featured-progress-container">
+        <div class="featured-progress">
+        </div>
+        <div class="featured-progress-i">
+        </div>
+        <div class="featured-progress-i">
+        </div>
+        <div class="featured-progress-i">
+        </div>
+        <div class="featured-progress-i">
+        </div>
+        <div class="featured-progress-i">
+        </div>
+       </div>
+       <div class="featured-inner">
+        <a class="featured-i" href="/politics/287648" target="_blank">
+         <img alt="" class="featured-i-img" src="https://assets.oxu.az/uploads/W1siZiIsIjIwMTgvMTIvMDUvMjMvMjUvMzQvNGUwOTQxOWMtMzg4Mi00OTMzLWE0YTMtN2YzZDM4ZmNhZjAzL0R0clFQMG5YY0FBeHF2Si5qcGciXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4MCJdLFsicCIsInRodW1iIiwiNjIweDQ2MCMiXV0?sha=a1ae21d611e3906e"/>
+         <div class="featured-i-content">
+          <div class="featured-i-meta-container">
+           <div class="featured-i-meta">
+            <span class="featured-i-date">
+             5 Dek
+            </span>
+            <span class="featured-i-time">
+             23:24
+            </span>
+            <span class="featured-i-views">
+             964
+            </span>
+           </div>
+          </div>
+          <div class="featured-i-text">
+           <div class="featured-i-title">
+            Milanda M\xc9\x99mm\xc9\x99dyarov - Mnatsakanyan g\xc3\xb6r\xc3\xbc\xc5\x9f\xc3\xbc ke\xc3\xa7irilir
+           </div>
+           <div class="featured-i-description">
+           </div>
+          </div>
+         </div>
+        </a>
+        <a class="featured-i" href="/war/287638" target="_blank">
+         <img alt="" class="featured-i-img" src="https://assets.oxu.az/uploads/W1siZiIsIjIwMTgvMTIvMDUvMjAvMjcvNTcvNzViMTVjYTEtMWViMC00OGZiLTlkZGMtNDE4MTliYjRiMmIyLzVjNGUzYzc3OTQ3MDUwZjU1Njg4NmMxZmJlNjhjNjVmLmpwZyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDgwIl0sWyJwIiwidGh1bWIiLCI2MjB4NDYwIyJdXQ?sha=b97cbf55f9bb8660"/>
+         <div class="featured-i-content">
+          <div class="featured-i-meta-container">
+           <div class="featured-i-meta">
+            <span class="featured-i-date">
+             5 Dek
+            </span>
+            <span class="featured-i-time">
+             20:27
+            </span>
+            <span class="featured-i-views">
+             4394
+            </span>
+           </div>
+          </div>
+          <div class="featured-i-text">
+           <div class="featured-i-title">
+            M\xc3\xbcdafi\xc9\x99 naziri c\xc9\x99bh\xc9\x99 zonas\xc4\xb1nda \xe2\x80\x93 FOTO\\V\xc4\xb0DEO
+           </div>
+           <div class="featured-i-description">
+           </div>
+          </div>
+         </div>
+        </a>
+        <a class="featured-i" href="/politics/287599" target="_blank">
+         <img alt="" class="featured-i-img" src="https://assets.oxu.az/uploads/W1siZiIsIjIwMTgvMTIvMDUvMTYvNDcvNDIvODcyMzk1YjgtN2M5Ny00Y2I3LWE1NWEtOWQwZDE4MDFmYjc2LzE0OTc5NTQ5NTQyODA2NTYwMTgzXzEwMDB4NjY5LmpwZyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDgwIl0sWyJwIiwidGh1bWIiLCI2MjB4NDYwIyJdXQ?sha=430a6bd0c3752f4e"/>
+         <div class="featured-i-content">
+          <div class="featured-i-meta-container">
+           <div class="featured-i-meta">
+            <span class="featured-i-date">
+             5 Dek
+            </span>
+            <span class="featured-i-time">
+             16:51
+            </span>
+            <span class="featured-i-views">
+             3168
+            </span>
+           </div>
+          </div>
+          <div class="featured-i-text">
+           <div class="featured-i-title">
+            D\xc3\xb6vl\xc9\x99t Gerbi v\xc9\x99 D\xc3\xb6vl\xc9\x99t Himni haqq\xc4\xb1nda  yeni qanunlar olacaq
+           </div>
+           <div class="featured-i-description">
+           </div>
+          </div>
+         </div>
+        </a>
+        <a class="featured-i" href="/society/287584" target="_blank">
+         <img alt="" class="featured-i-img" src="https://assets.oxu.az/uploads/W1siZiIsIjIwMTgvMTIvMDUvMTYvMTIvNDkvZDIzYWFkNmItNjI1My00MDk0LThlZDAtOWMwMWE4N2Q5ODNkL2ljYmFyaS5qcGciXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4MCJdLFsicCIsInRodW1iIiwiNjIweDQ2MCMiXV0?sha=f3b9f3a032d21918"/>
+         <div class="featured-i-content">
+          <div class="featured-i-meta-container">
+           <div class="featured-i-meta">
+            <span class="featured-i-date">
+             5 Dek
+            </span>
+            <span class="featured-i-time">
+             16:19
+            </span>
+            <span class="featured-i-views">
+             5502
+            </span>
+           </div>
+          </div>
+          <div class="featured-i-text">
+           <div class="featured-i-title">
+            \xc4\xb0cbari tibbi s\xc4\xb1\xc4\x9fortaya daxil olmayan xidm\xc9\x99tl\xc9\x99r - S\xc4\xb0YAHI
+           </div>
+           <div class="featured-i-description">
+           </div>
+          </div>
+         </div>
+        </a>
+        <a class="featured-i" href="/politics/287520" target="_blank">
+         <img alt="" class="featured-i-img" src="https://assets.oxu.az/uploads/W1siZiIsIjIwMTgvMTIvMDUvMTEvNTMvMTgvNDM1OWQxNzUtZDg4NS00NGZhLTk0MmEtMzU3MWQ2YWY2ZDMzLzIyLmpwZyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDgwIl0sWyJwIiwidGh1bWIiLCI2MjB4NDYwIyJdXQ?sha=e21d03caf2000e0c"/>
+         <div class="featured-i-content">
+          <div class="featured-i-meta-container">
+           <div class="featured-i-meta">
+            <span class="featured-i-date">
+             5 Dek
+            </span>
+            <span class="featured-i-time">
+             15:16
+            </span>
+            <span class="featured-i-views">
+             5189
+            </span>
+           </div>
+          </div>
+          <div class="featured-i-text">
+           <div class="featured-i-title">
+            \xc4\xb0lham \xc6\x8fliyev AB\xc5\x9e s\xc9\x99firliyind\xc9\x99 - FOTO + YEN\xc4\xb0L\xc6\x8fN\xc4\xb0B
+           </div>
+           <div class="featured-i-description">
+           </div>
+          </div>
+         </div>
+        </a>
+       </div>
+      </div>
+     </section>
+     <section class="news-list">
+      <div class="news-i">
+       <a class="news-i-inner" href="/sport/287657">
+        <div class="news-i-img-container">
+         <div class="news-i-img" style="background-image: url(https://assets.oxu.az/uploads/W1siZiIsIjIwMTgvMTIvMDYvMDEvNTIvMDMvZTEyODFmMzAtOWNkMC00MWQ3LTg4YTktZmFkNWFiZDE2YTExLzBfR2V0dHlJbWFnZXMtMTA2ODgyNjgzMC5qcGciXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4MCJdLFsicCIsInRodW1iIiwiNjIweDQ2NVx1MDAzZSJdXQ?sha=24c17506a9be5184)">
+         </div>
+        </div>
+        <div class="news-i-content">
+         <div class="when">
+          <div class="when-date">
+           <div class="date-day">
+            6&amp;nbsp
+           </div>
+           <div class="date-month">
+            Dek
+           </div>
+           <div class="date-year">
+            2018
+           </div>
+          </div>
+          <div class="when-time">
+           01:56
+          </div>
+         </div>
+         <div class="title">
+          \xe2\x80\x9cMan\xc3\xa7ester Yunayted\xe2\x80\x9d \xe2\x80\x9cArsenal\xe2\x80\x9dla \xe2\x80\x9cs\xc3\xbclh\xe2\x80\x9d ba\xc4\x9flad\xc4\xb1 - FOTO
+         </div>
+         <div class="description">
+         </div>
+        </div>
+       </a>
+       <div class="stats">
+        <div class="stats-i-container stats-like-active stats_likes" data-action="/287657/like" data-id="287657" data-value="1">
+         <span class="stats-i">
+          0
+         </span>
+        </div>
+        <div class="stats-i-container stats-like-active stats_dislikes" data-action="/287657/dislike" data-id="287657" data-value="0">
+         <span class="stats-i">
+          0
+         </span>
+        </div>
+        <div class="stats-i-container stats_views">
+         <span class="stats-i">
+          0
+         </span>
+        </div>
+       </div>
+      </div>
+      <div class="news-i">
+       <a class="news-i-inner" href="/sport/287651">
+        <div class="news-i-img-container">
+         <div class="news-i-img" style="background-image: url(https://assets.oxu.az/uploads/W1siZiIsIjIwMTgvMTIvMDYvMDAvMTQvMTgvNzRjMGY3ZjgtNDQ2Yi00NDFlLWEwY2MtZDQyZTE1YmEyMWU5L2JwX3psYXRhbl9pYnJhaGltb3ZpY18yMjA1MThfMTQ5LmpwZyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDgwIl0sWyJwIiwidGh1bWIiLCI2MjB4NDY1XHUwMDNlIl1d?sha=4affc734b61952da)">
+         </div>
+        </div>
+        <div class="news-i-content">
+         <div class="when">
+          <div class="when-date">
+           <div class="date-day">
+            6&amp;nbsp
+           </div>
+           <div class="date-month">
+            Dek
+           </div>
+           <div class="date-year">
+            2018
+           </div>
+          </div>
+          <div class="when-time">
+           01:12
+          </div>
+         </div>
+         <div class="title">
+          \xc4\xb0brahimovi\xc3\xa7in Avropaya qay\xc4\xb1tmamas\xc4\xb1n\xc4\xb1n s\xc9\x99b\xc9\x99bi m\xc9\x99lum oldu
+         </div>
+         <div class="description">
+         </div>
+        </div>
+       </a>
+       <div class="stats">
+        <div class="stats-i-container stats-like-active stats_likes" data-action="/287651/like" data-id="287651" data-value="1">
+         <span class="stats-i">
+          3
+         </span>
+        </div>
+        <div class="stats-i-container stats-like-active stats_dislikes" data-action="/287651/dislike" data-id="287651" data-value="0">
+         <span class="stats-i">
+          9
+         </span>
+        </div>
+        <div class="stats-i-container stats_views">
+         <span class="stats-i">
+          638
+         </span>
+        </div>
+       </div>
+       <div class="news-i-audio">
+       </div>
+      </div>
+      <div class="news-i">
+       <a class="news-i-inner" href="/society/287653">
+        <div class="news-i-img-container">
+         <div class="news-i-img" style="background-image: url(https://assets.oxu.az/uploads/W1siZiIsIjIwMTgvMTIvMDYvMDAvMzgvNDUvYjI4ZWZmMDQtYzZhYS00NDE4LTk5NjMtOWZhMjIzNTdjYjQzL2Rlbml6ZGV6ZWx6ZWxlLmpwZyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDgwIl0sWyJwIiwidGh1bWIiLCI2MjB4NDY1XHUwMDNlIl1d?sha=227cf98fa9779e79)">
+         </div>
+        </div>
+        <div class="news-i-content">
+         <div class="when">
+          <div class="when-date">
+           <div class="date-day">
+            6&amp;nbsp
+           </div>
+           <div class="date-month">
+            Dek
+           </div>
+           <div class="date-year">
+            2018
+           </div>
+          </div>
+          <div class="when-time">
+           00:38
+          </div>
+         </div>
+         <div class="title">
+          X\xc9\x99z\xc9\x99r d\xc9\x99nizind\xc9\x99 z\xc9\x99lz\xc9\x99l\xc9\x99 oldu
+         </div>
+         <div class="description">
+         </div>
+        </div>
+       </a>
+       <div class="stats">
+        <div class="stats-i-container stats-like-active stats_likes" data-action="/287653/like" data-id="287653" data-value="1">
+         <span class="stats-i">
+          3
+         </span>
+        </div>
+        <div class="stats-i-container stats-like-active stats_dislikes" data-action="/287653/dislike" data-id="287653" data-value="0">
+         <span class="stats-i">
+          32
+         </span>
+        </div>
+        <div class="stats-i-container stats_views">
+         <span class="stats-i">
+          1218
+         </span>
+        </div>
+       </div>
+       <div class="news-i-audio">
+       </div>
+      </div>
+      <div class="news-i">
+       <a class="news-i-inner" href="/world/287646">
+        <div class="news-i-img-container">
+         <div class="news-i-img" style="background-image: url(https://assets.oxu.az/uploads/W1siZiIsIjIwMTgvMTIvMDUvMjIvNTgvNTgvZTZkMzRlZGUtYmM1My00MzJkLTg1NDAtYjY5Mjc5MGJmMzk1LzFfMTE2XzMuanBnIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiLXF1YWxpdHkgODAiXSxbInAiLCJ0aHVtYiIsIjYyMHg0NjVcdTAwM2UiXV0?sha=b10463aa2f868936)">
+         </div>
+        </div>
+        <div class="news-i-content">
+         <div class="when">
+          <div class="when-date">
+           <div class="date-day">
+            6&amp;nbsp
+           </div>
+           <div class="date-month">
+            Dek
+           </div>
+           <div class="date-year">
+            2018
+           </div>
+          </div>
+          <div class="when-time">
+           00:22
+          </div>
+         </div>
+         <div class="title">
+          T\xc3\xbcrkiy\xc9\x99d\xc9\x99 xarici \xc3\xb6lk\xc9\x99 naziri a\xc4\x9f\xc4\xb1r q\xc9\x99zaya d\xc3\xbc\xc5\x9fd\xc3\xbc
+         </div>
+         <div class="description">
+         </div>
+        </div>
+       </a>
+       <div class="stats">
+        <div class="stats-i-container stats-like-active stats_likes" data-action="/287646/like" data-id="287646" data-value="1">
+         <span class="stats-i">
+          2
+         </span>
+        </div>
+        <div class="stats-i-container stats-like-active stats_dislikes" data-action="/287646/dislike" data-id="287646" data-value="0">
+         <span class="stats-i">
+          36
+         </span>
+        </div>
+        <div class="stats-i-container stats_views">
+         <span class="stats-i">
+          1385
+         </span>
+        </div>
+       </div>
+       <div class="news-i-audio">
+       </div>
+      </div>
+      <div class="news-i">
+       <a class="news-i-inner" href="/world/287645">
+        <div class="news-i-img-container">
+         <div class="news-i-img" style="background-image: url(https://assets.oxu.az/uploads/W1siZiIsIjIwMTgvMTIvMDUvMjIvNDMvNTkvZjcwZGFmMzktNGVkZS00OGU3LWFlOWEtYzA2N2I2ZWQ5MzY3L0RvbmFsZC1UcmFtcC5qcGciXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4MCJdLFsicCIsInRodW1iIiwiNjIweDQ2NVx1MDAzZSJdXQ?sha=22ef8bf97bff6ec8)">
+         </div>
+        </div>
+        <div class="news-i-content">
+         <div class="when">
+          <div class="when-date">
+           <div class="date-day">
+            5&amp;nbsp
+           </div>
+           <div class="date-month">
+            Dek
+           </div>
+           <div class="date-year">
+            2018
+           </div>
+          </div>
+          <div class="when-time">
+           23:54
+          </div>
+         </div>
+         <div class="title">
+          Tramp Bill v\xc9\x99 Hillari Klintona salam verm\xc9\x99di - V\xc4\xb0DEO
+         </div>
+         <div class="description">
+         </div>
+        </div>
+       </a>
+       <div class="stats">
+        <div class="stats-i-container stats-like-active stats_likes" data-action="/287645/like" data-id="287645" data-value="1">
+         <span class="stats-i">
+          19
+         </span>
+        </div>
+        <div class="stats-i-container stats-like-active stats_dislikes" data-action="/287645/dislike" data-id="287645" data-value="0">
+         <span class="stats-i">
+          34
+         </span>
+        </div>
+        <div class="stats-i-container stats_views">
+         <span class="stats-i">
+          1539
+         </span>
+        </div>
+       </div>
+       <div class="news-i-audio">
+       </div>
+      </div>
+      <div class="news-i">
+       <a class="news-i-inner" href="/politics/287648">
+        <div class="news-i-img-container">
+         <div class="news-i-img" style="background-image: url(https://assets.oxu.az/uploads/W1siZiIsIjIwMTgvMTIvMDUvMjMvMjUvMzQvNGUwOTQxOWMtMzg4Mi00OTMzLWE0YTMtN2YzZDM4ZmNhZjAzL0R0clFQMG5YY0FBeHF2Si5qcGciXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4MCJdLFsicCIsInRodW1iIiwiNjIweDQ2NVx1MDAzZSJdXQ?sha=3068051f0f46d0b7)">
+         </div>
+        </div>
+        <div class="news-i-content">
+         <div class="when">
+          <div class="when-date">
+           <div class="date-day">
+            5&amp;nbsp
+           </div>
+           <div class="date-month">
+            Dek
+           </div>
+           <div class="date-year">
+            2018
+           </div>
+          </div>
+          <div class="when-time">
+           23:24
+          </div>
+         </div>
+         <div class="title">
+          Milanda M\xc9\x99mm\xc9\x99dyarov - Mnatsakanyan g\xc3\xb6r\xc3\xbc\xc5\x9f\xc3\xbc ke\xc3\xa7irilir
+         </div>
+         <div class="description">
+         </div>
+        </div>
+       </a>
+       <div class="stats">
+        <div class="stats-i-container stats-like-active stats_likes" data-action="/287648/like" data-id="287648" data-value="1">
+         <span class="stats-i">
+          4
+         </span>
+        </div>
+        <div class="stats-i-container stats-like-active stats_dislikes" data-action="/287648/dislike" data-id="287648" data-value="0">
+         <span class="stats-i">
+          137
+         </span>
+        </div>
+        <div class="stats-i-container stats_views">
+         <span class="stats-i">
+          964
+         </span>
+        </div>
+       </div>
+       <div class="news-i-audio">
+       </div>
+      </div>
+      <div class="news-i">
+       <a class="news-i-inner" href="/sport/287642">
+        <div class="news-i-img-container">
+         <div class="news-i-img" style="background-image: url(https://assets.oxu.az/uploads/W1siZiIsIjIwMTgvMTIvMDUvMjEvNTMvMDMvN2QwOTVhZDItM2ZlMi00MmE2LWJiZGUtMjk5MDc2YmMxMTI0L2dldHR5aW1hZ2VzLTg1NTk3NjI1Ni5qcGciXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4MCJdLFsicCIsInRodW1iIiwiNjIweDQ2NVx1MDAzZSJdXQ?sha=0eafc3832d78a730)">
+         </div>
+        </div>
+        <div class="news-i-content">
+         <div class="when">
+          <div class="when-date">
+           <div class="date-day">
+            5&amp;nbsp
+           </div>
+           <div class="date-month">
+            Dek
+           </div>
+           <div class="date-year">
+            2018
+           </div>
+          </div>
+          <div class="when-time">
+           22:53
+          </div>
+         </div>
+         <div class="title">
+          S\xc9\x99m\xc9\x99dov h\xc9\x99bsd\xc9\x99 olan futbol\xc3\xa7ulara m\xc3\xbcraci\xc9\x99t etdi
+         </div>
+         <div class="description">
+         </div>
+        </div>
+       </a>
+       <div class="stats">
+        <div class="stats-i-container stats-like-active stats_likes" data-action="/287642/like" data-id="287642" data-value="1">
+         <span class="stats-i">
+          27
+         </span>
+        </div>
+        <div class="stats-i-container stats-like-active stats_dislikes" data-action="/287642/dislike" data-id="287642" data-value="0">
+         <span class="stats-i">
+          34
+         </span>
+        </div>
+        <div class="stats-i-container stats_views">
+         <span class="stats-i">
+          2654
+         </span>
+        </div>
+       </div>
+       <div class="news-i-audio">
+       </div>
+      </div>
+      <div class="news-i">
+       <a class="news-i-inner" href="/world/287643">
+        <div class="news-i-img-container">
+         <div class="news-i-img" style="background-image: url(https://assets.oxu.az/uploads/W1siZiIsIjIwMTgvMTIvMDUvMjIvMDgvNTMvODdhNzE1NjctMDhiZS00YjRjLWIyMTUtZmRiZjk5MGE1NWJmLzMxNjM2OTgxNC5qcGciXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4MCJdLFsicCIsInRodW1iIiwiNjIweDQ2NVx1MDAzZSJdXQ?sha=d83e1ddadd2e0d4d)">
+         </div>
+        </div>
+        <div class="news-i-content">
+         <div class="when">
+          <div class="when-date">
+           <div class="date-day">
+            5&amp;nbsp
+           </div>
+           <div class="date-month">
+            Dek
+           </div>
+           <div class="date-year">
+            2018
+           </div>
+          </div>
+          <div class="when-time">
+           22:23
+          </div>
+         </div>
+         <div class="title">
+          Moskva Pa\xc5\x9finyan\xc4\xb1n katibini anlamad\xc4\xb1
+         </div>
+         <div class="description">
+         </div>
+        </div>
+       </a>
+       <div class="stats">
+        <div class="stats-i-container stats-like-active stats_likes" data-action="/287643/like" data-id="287643" data-value="1">
+         <span class="stats-i">
+          126
+         </span>
+        </div>
+        <div class="stats-i-container stats-like-active stats_dislikes" data-action="/287643/dislike" data-id="287643" data-value="0">
+         <span class="stats-i">
+          7
+         </span>
+        </div>
+        <div class="stats-i-container stats_views">
+         <span class="stats-i">
+          2607
+         </span>
+        </div>
+       </div>
+       <div class="news-i-audio">
+       </div>
+      </div>
+      <div class="news-i">
+       <a class="news-i-inner" href="/world/287639">
+        <div class="news-i-img-container">
+         <div class="news-i-img" style="background-image: url(https://assets.oxu.az/uploads/W1siZiIsIjIwMTgvMTIvMDUvMjEvNTAvNTEvM2VkYmQ4MjAtNGZkZi00ZDk4LTgwNzgtNzdlYmMwOTg4Y2UzLzE1MzA2MjAzMzMuanBnIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiLXF1YWxpdHkgODAiXSxbInAiLCJ0aHVtYiIsIjYyMHg0NjVcdTAwM2UiXV0?sha=d1ebd99222ab9a89)">
+         </div>
+        </div>
+        <div class="news-i-content">
+         <div class="when">
+          <div class="when-date">
+           <div class="date-day">
+            5&amp;nbsp
+           </div>
+           <div class="date-month">
+            Dek
+           </div>
+           <div class="date-year">
+            2018
+           </div>
+          </div>
+          <div class="when-time">
+           21:54
+          </div>
+         </div>
+         <div class="title">
+          Trampdan neftl\xc9\x99 ba\xc4\x9fl\xc4\xb1 vacib b\xc9\x99yanat
+         </div>
+         <div class="description">
+         </div>
+        </div>
+       </a>
+       <div class="stats">
+        <div class="stats-i-container stats-like-active stats_likes" data-action="/287639/like" data-id="287639" data-value="1">
+         <span class="stats-i">
+          28
+         </span>
+        </div>
+        <div class="stats-i-container stats-like-active stats_dislikes" data-action="/287639/dislike" data-id="287639" data-value="0">
+         <span class="stats-i">
+          112
+         </span>
+        </div>
+        <div class="stats-i-container stats_views">
+         <span class="stats-i">
+          5816
+         </span>
+        </div>
+       </div>
+       <div class="news-i-audio">
+       </div>
+      </div>
+      <div class="news-i">
+       <a class="news-i-inner" href="/society/287637">
+        <div class="news-i-img-container">
+         <div class="news-i-img" style="background-image: url(https://assets.oxu.az/uploads/W1siZiIsIjIwMTgvMTIvMDUvMjAvMjEvNDUvMmMwNjg0YzktOTI4Ni00YTBjLWJmYjgtZDJiMzk0YTUwOTM3L0lNR19CRkNEMzYtNjEyMzhBLUQyNTRDMy0zQjg3RDctQTBCQkNBLTMzREUzNy5qcGciXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4MCJdLFsicCIsInRodW1iIiwiNjIweDQ2NVx1MDAzZSJdXQ?sha=e5a516e1aa8bfb95)">
+         </div>
+        </div>
+        <div class="news-i-content">
+         <div class="when">
+          <div class="when-date">
+           <div class="date-day">
+            5&amp;nbsp
+           </div>
+           <div class="date-month">
+            Dek
+           </div>
+           <div class="date-year">
+            2018
+           </div>
+          </div>
+          <div class="when-time">
+           21:29
+          </div>
+         </div>
+         <div class="title">
+          Amerikal\xc4\xb1lar D\xc3\xb6vl\xc9\x99t G\xc3\xb6mr\xc3\xbck Komit\xc9\x99sind\xc9\x99 - FOTO
+         </div>
+         <div class="description">
+         </div>
+        </div>
+       </a>
+       <div class="stats">
+        <div class="stats-i-container stats-like-active stats_likes" data-action="/287637/like" data-id="287637" data-value="1">
+         <span class="stats-i">
+          50
+         </span>
+        </div>
+        <div class="stats-i-container stats-like-active stats_dislikes" data-action="/287637/dislike" data-id="287637" data-value="0">
+         <span class="stats-i">
+          71
+         </span>
+        </div>
+        <div class="stats-i-container stats_views">
+         <span class="stats-i">
+          2048
+         </span>
+        </div>
+       </div>
+       <div class="news-i-audio">
+       </div>
+      </div>
+      <div class="news-i">
+       <a class="news-i-inner" href="/world/287636">
+        <div class="news-i-img-container">
+         <div class="news-i-img" style="background-image: url(https://assets.oxu.az/uploads/W1siZiIsIjIwMTgvMTIvMDUvMjAvMDgvMDIvM2MxNjFlMmYtOTdiMy00ZTczLWFmNDktM2ZlOWY0YjA4NzJmL2RldGFpbF9vcmlnaW5hbC1iOWIzMGFhYjAwZmFlNDQ4NTcwOTc0ODNkMDQyYmYzOS5qcGciXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4MCJdLFsicCIsInRodW1iIiwiNjIweDQ2NVx1MDAzZSJdXQ?sha=54d66d1fe7a841c3)">
+         </div>
+        </div>
+        <div class="news-i-content">
+         <div class="when">
+          <div class="when-date">
+           <div class="date-day">
+            5&amp;nbsp
+           </div>
+           <div class="date-month">
+            Dek
+           </div>
+           <div class="date-year">
+            2018
+           </div>
+          </div>
+          <div class="when-time">
+           20:57
+          </div>
+         </div>
+         <div class="title">
+          Ukraynada qad\xc4\xb1n siyas\xc9\x99t\xc3\xa7i quru acl\xc4\xb1\xc4\x9fa ba\xc5\x9flad\xc4\xb1
+         </div>
+         <div class="description">
+         </div>
+        </div>
+       </a>
+       <div class="stats">
+        <div class="stats-i-container stats-like-active stats_likes" data-action="/287636/like" data-id="287636" data-value="1">
+         <span class="stats-i">
+          25
+         </span>
+        </div>
+        <div class="stats-i-container stats-like-active stats_dislikes" data-action="/287636/dislike" data-id="287636" data-value="0">
+         <span class="stats-i">
+          75
+         </span>
+        </div>
+        <div class="stats-i-container stats_views">
+         <span class="stats-i">
+          2480
+         </span>
+        </div>
+       </div>
+       <div class="news-i-audio">
+       </div>
+      </div>
+      <div class="news-i">
+       <a class="news-i-inner" href="/war/287638">
+        <div class="news-i-img-container">
+         <div class="news-i-img" style="background-image: url(https://assets.oxu.az/uploads/W1siZiIsIjIwMTgvMTIvMDUvMjAvMjcvNTcvNzViMTVjYTEtMWViMC00OGZiLTlkZGMtNDE4MTliYjRiMmIyLzVjNGUzYzc3OTQ3MDUwZjU1Njg4NmMxZmJlNjhjNjVmLmpwZyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDgwIl0sWyJwIiwidGh1bWIiLCI2MjB4NDY1XHUwMDNlIl1d?sha=6a69430124f6892b)">
+         </div>
+        </div>
+        <div class="news-i-content">
+         <div class="when">
+          <div class="when-date">
+           <div class="date-day">
+            5&amp;nbsp
+           </div>
+           <div class="date-month">
+            Dek
+           </div>
+           <div class="date-year">
+            2018
+           </div>
+          </div>
+          <div class="when-time">
+           20:27
+          </div>
+         </div>
+         <div class="title">
+          M\xc3\xbcdafi\xc9\x99 naziri c\xc9\x99bh\xc9\x99 zonas\xc4\xb1nda \xe2\x80\x93 FOTO\\V\xc4\xb0DEO
+         </div>
+         <div class="description">
+         </div>
+        </div>
+       </a>
+       <div class="stats">
+        <div class="stats-i-container stats-like-active stats_likes" data-action="/287638/like" data-id="287638" data-value="1">
+         <span class="stats-i">
+          247
+         </span>
+        </div>
+        <div class="stats-i-container stats-like-active stats_dislikes" data-action="/287638/dislike" data-id="287638" data-value="0">
+         <span class="stats-i">
+          33
+         </span>
+        </div>
+        <div class="stats-i-container stats_views">
+         <span class="stats-i">
+          4394
+         </span>
+        </div>
+       </div>
+       <div class="news-i-audio">
+       </div>
+      </div>
+      <div class="news-i">
+       <a class="news-i-inner" href="/politics/287635">
+        <div class="news-i-img-container">
+         <div class="news-i-img" style="background-image: url(https://assets.oxu.az/uploads/W1siZiIsIjIwMTgvMTIvMDUvMTkvNDUvMzkvMzU0ZWJhNGItN2QzOC00OWVlLTg2OTQtMWU1YTI1ZmIwMTgyL0lNRy0yMDE4MTIwNS1XQTAwMDUuanBnIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiLXF1YWxpdHkgODAiXSxbInAiLCJ0aHVtYiIsIjYyMHg0NjVcdTAwM2UiXV0?sha=980e9f9647571fd9)">
+         </div>
+        </div>
+        <div class="news-i-content">
+         <div class="when">
+          <div class="when-date">
+           <div class="date-day">
+            5&amp;nbsp
+           </div>
+           <div class="date-month">
+            Dek
+           </div>
+           <div class="date-year">
+            2018
+           </div>
+          </div>
+          <div class="when-time">
+           20:00
+          </div>
+         </div>
+         <div class="title">
+          Attillio Fontana Az\xc9\x99rbaycana d\xc9\x99v\xc9\x99t edildi
+         </div>
+         <div class="description">
+         </div>
+        </div>
+       </a>
+       <div class="stats">
+        <div class="stats-i-container stats-like-active stats_likes" data-action="/287635/like" data-id="287635" data-value="1">
+         <span class="stats-i">
+          22
+         </span>
+        </div>
+        <div class="stats-i-container stats-like-active stats_dislikes" data-action="/287635/dislike" data-id="287635" data-value="0">
+         <span class="stats-i">
+          86
+         </span>
+        </div>
+        <div class="stats-i-container stats_views">
+         <span class="stats-i">
+          1396
+         </span>
+        </div>
+       </div>
+       <div class="news-i-audio">
+       </div>
+      </div>
+      <div class="news-i">
+       <a class="news-i-inner" href="/politics/287634">
+        <div class="news-i-img-container">
+         <div class="news-i-img" style="background-image: url(https://assets.oxu.az/uploads/W1siZiIsIjIwMTgvMTIvMDUvMTkvMzIvMDgvNjg5MDM3MWYtODMyZi00NTFlLTgyMGMtYTUxMDhiMzdkMmRjLzQwMTUzODEyMDYzOS5qcGciXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4MCJdLFsicCIsInRodW1iIiwiNjIweDQ2NVx1MDAzZSJdXQ?sha=ee07599e1fa3dadc)">
+         </div>
+        </div>
+        <div class="news-i-content">
+         <div class="when">
+          <div class="when-date">
+           <div class="date-day">
+            5&amp;nbsp
+           </div>
+           <div class="date-month">
+            Dek
+           </div>
+           <div class="date-year">
+            2018
+           </div>
+          </div>
+          <div class="when-time">
+           19:30
+          </div>
+         </div>
+         <div class="title">
+          \xc4\xb0lham \xc6\x8fliyev KTMT-2019 sammitin\xc9\x99 d\xc9\x99v\xc9\x99t oluna bil\xc9\x99r - R\xc6\x8fY
+         </div>
+         <div class="description">
+         </div>
+        </div>
+       </a>
+       <div class="stats">
+        <div class="stats-i-container stats-like-active stats_likes" data-action="/287634/like" data-id="287634" data-value="1">
+         <span class="stats-i">
+          350
+         </span>
+        </div>
+        <div class="stats-i-container stats-like-active stats_dislikes" data-action="/287634/dislike" data-id="287634" data-value="0">
+         <span class="stats-i">
+          95
+         </span>
+        </div>
+        <div class="stats-i-container stats_views">
+         <span class="stats-i">
+          2794
+         </span>
+        </div>
+       </div>
+       <div class="news-i-audio">
+       </div>
+      </div>
+      <div class="news-i">
+       <a class="news-i-inner" href="/criminal/287597">
+        <div class="news-i-img-container">
+         <div class="news-i-img" style="background-image: url(https://assets.oxu.az/uploads/W1siZiIsIjIwMTgvMTIvMDUvMTYvMjQvMzUvMjZiNzJlNjUtYjI4OS00NmZkLTliZjMtZDZiMGRkNzU3ZWVkLzA4LmpwZyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDgwIl0sWyJwIiwidGh1bWIiLCI2MjB4NDY1XHUwMDNlIl1d?sha=f5279133b4e59108)">
+         </div>
+        </div>
+        <div class="news-i-content">
+         <div class="when">
+          <div class="when-date">
+           <div class="date-day">
+            5&amp;nbsp
+           </div>
+           <div class="date-month">
+            Dek
+           </div>
+           <div class="date-year">
+            2018
+           </div>
+          </div>
+          <div class="when-time">
+           19:00
+          </div>
+         </div>
+         <div class="title">
+          Sumqay\xc4\xb1tda 19 manata g\xc3\xb6r\xc9\x99 taksi s\xc3\xbcr\xc3\xbcc\xc3\xbcs\xc3\xbcn\xc3\xbc \xc3\xb6ld\xc3\xbcr\xc9\x99nl\xc9\x99rin m\xc9\x99hk\xc9\x99m\xc9\x99si ba\xc5\x9flad\xc4\xb1
+         </div>
+         <div class="description">
+         </div>
+        </div>
+       </a>
+       <div class="stats">
+        <div class="stats-i-container stats-like-active stats_likes" data-action="/287597/like" data-id="287597" data-value="1">
+         <span class="stats-i">
+          236
+         </span>
+        </div>
+        <div class="stats-i-container stats-like-active stats_dislikes" data-action="/287597/dislike" data-id="287597" data-value="0">
+         <span class="stats-i">
+          20
+         </span>
+        </div>
+        <div class="stats-i-container stats_views">
+         <span class="stats-i">
+          2491
+         </span>
+        </div>
+       </div>
+       <div class="news-i-audio">
+       </div>
+      </div>
+      <div class="news-i">
+       <a class="news-i-inner" href="/sport/287588">
+        <div class="news-i-img-container">
+         <div class="news-i-img" style="background-image: url(https://assets.oxu.az/uploads/W1siZiIsIjIwMTgvMTIvMDUvMTUvNTQvNTIvODkyNjc4ZWUtODE4Zi00ZjQzLTg5MzItNWMxYmI5MTAwZTRhL3FyYW4gcHJpLmpwZyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDgwIl0sWyJwIiwidGh1bWIiLCI2MjB4NDY1XHUwMDNlIl1d?sha=5c0e00a57c562ac7)">
+         </div>
+        </div>
+        <div class="news-i-content">
+         <div class="when">
+          <div class="when-date">
+           <div class="date-day">
+            5&amp;nbsp
+           </div>
+           <div class="date-month">
+            Dek
+           </div>
+           <div class="date-year">
+            2018
+           </div>
+          </div>
+          <div class="when-time">
+           18:51
+          </div>
+         </div>
+         <div class="title">
+          Az\xc9\x99rbaycan Qran-Prisi \xe2\x80\x9c2018-ci ilin \xc9\x99n yax\xc5\x9f\xc4\xb1 yar\xc4\xb1\xc5\x9f\xc4\xb1\xe2\x80\x9dd\xc4\xb1r - Britaniya K\xc4\xb0V
+         </div>
+         <div class="description">
+         </div>
+        </div>
+       </a>
+       <div class="stats">
+        <div class="stats-i-container stats-like-active stats_likes" data-action="/287588/like" data-id="287588" data-value="1">
+         <span class="stats-i">
+          55
+         </span>
+        </div>
+        <div class="stats-i-container stats-like-active stats_dislikes" data-action="/287588/dislike" data-id="287588" data-value="0">
+         <span class="stats-i">
+          152
+         </span>
+        </div>
+        <div class="stats-i-container stats_views">
+         <span class="stats-i">
+          781
+         </span>
+        </div>
+       </div>
+       <div class="news-i-audio">
+       </div>
+      </div>
+      <div class="news-i">
+       <a class="news-i-inner" href="/economy/287632">
+        <div class="news-i-img-container">
+         <div class="news-i-img" style="background-image: url(https://assets.oxu.az/uploads/W1siZiIsIjIwMTgvMTIvMDUvMTgvMzcvNTgvMTE2Y2ZjZWMtZDMxMy00NzZmLThlMTItMTVhNGMzZGVhZjEzL2JwLWF6ZXJiYXljYW4uanBnIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiLXF1YWxpdHkgODAiXSxbInAiLCJ0aHVtYiIsIjYyMHg0NjVcdTAwM2UiXV0?sha=a4d522095f8b0447)">
+         </div>
+        </div>
+        <div class="news-i-content">
+         <div class="when">
+          <div class="when-date">
+           <div class="date-day">
+            5&amp;nbsp
+           </div>
+           <div class="date-month">
+            Dek
+           </div>
+           <div class="date-year">
+            2018
+           </div>
+          </div>
+          <div class="when-time">
+           18:44
+          </div>
+         </div>
+         <div class="title">
+          \xe2\x80\x9c\xc5\x9eevron\xe2\x80\x9dun pay\xc4\xb1n\xc4\xb1 satmas\xc4\xb1 m\xc9\x99lumat\xc4\xb1na BP-d\xc9\x99n - M\xc3\x9cNAS\xc4\xb0B\xc6\x8fT
+         </div>
+         <div class="description">
+         </div>
+        </div>
+       </a>
+       <div class="stats">
+        <div class="stats-i-container stats-like-active stats_likes" data-action="/287632/like" data-id="287632" data-value="1">
+         <span class="stats-i">
+          10
+         </span>
+        </div>
+        <div class="stats-i-container stats-like-active stats_dislikes" data-action="/287632/dislike" data-id="287632" data-value="0">
+         <span class="stats-i">
+          74
+         </span>
+        </div>
+        <div class="stats-i-container stats_views">
+         <span class="stats-i">
+          2746
+         </span>
+        </div>
+       </div>
+       <div class="news-i-audio">
+       </div>
+      </div>
+      <div class="news-i">
+       <a class="news-i-inner" href="/society/287631">
+        <div class="news-i-img-container">
+         <div class="news-i-img" style="background-image: url(https://assets.oxu.az/uploads/W1siZiIsIjIwMTgvMTIvMDUvMTgvMzEvMjIvMTJlNzk5MTctNjI0MS00OGIwLWI4YjUtNWFkNmU1ZmZkZDc3L0tNT18xMzU1MDhfMDAxMThfMV90MjE4XzE5MTQ1OC5qcGciXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4MCJdLFsicCIsInRodW1iIiwiNjIweDQ2NVx1MDAzZSJdXQ?sha=df71f7dd7dc1882d)">
+         </div>
+        </div>
+        <div class="news-i-content">
+         <div class="when">
+          <div class="when-date">
+           <div class="date-day">
+            5&amp;nbsp
+           </div>
+           <div class="date-month">
+            Dek
+           </div>
+           <div class="date-year">
+            2018
+           </div>
+          </div>
+          <div class="when-time">
+           18:31
+          </div>
+         </div>
+         <div class="title">
+          Az\xc9\x99rbaycan Rus \xc4\xb0cmas\xc4\xb1 Zatulin\xc9\x99 cavab verdi
+         </div>
+         <div class="description">
+         </div>
+        </div>
+       </a>
+       <div class="stats">
+        <div class="stats-i-container stats-like-active stats_likes" data-action="/287631/like" data-id="287631" data-value="1">
+         <span class="stats-i">
+          201
+         </span>
+        </div>
+        <div class="stats-i-container stats-like-active stats_dislikes" data-action="/287631/dislike" data-id="287631" data-value="0">
+         <span class="stats-i">
+          18
+         </span>
+        </div>
+        <div class="stats-i-container stats_views">
+         <span class="stats-i">
+          4873
+         </span>
+        </div>
+       </div>
+       <div class="news-i-audio">
+       </div>
+      </div>
+      <div class="news-i">
+       <a class="news-i-inner" href="/sport/287629">
+        <div class="news-i-img-container">
+         <div class="news-i-img" style="background-image: url(https://assets.oxu.az/uploads/W1siZiIsIjIwMTgvMTIvMDUvMTgvMDgvNDcvMTZiZDIxOTEtNTYzMy00M2IxLWJjZjgtNzZjZTEwOTFhYmFjL8WfyZlyaWYuanBnIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiLXF1YWxpdHkgODAiXSxbInAiLCJ0aHVtYiIsIjYyMHg0NjVcdTAwM2UiXV0?sha=5bd7aa8d95df1562)">
+         </div>
+        </div>
+        <div class="news-i-content">
+         <div class="when">
+          <div class="when-date">
+           <div class="date-day">
+            5&amp;nbsp
+           </div>
+           <div class="date-month">
+            Dek
+           </div>
+           <div class="date-year">
+            2018
+           </div>
+          </div>
+          <div class="when-time">
+           18:15
+          </div>
+         </div>
+         <div class="title">
+          Millimiz 10 min dollar m\xc3\xbckafat fondu olan yar\xc4\xb1\xc5\x9fa qat\xc4\xb1lacaq - V\xc4\xb0DEO
+         </div>
+         <div class="description">
+         </div>
+        </div>
+       </a>
+       <div class="stats">
+        <div class="stats-i-container stats-like-active stats_likes" data-action="/287629/like" data-id="287629" data-value="1">
+         <span class="stats-i">
+          158
+         </span>
+        </div>
+        <div class="stats-i-container stats-like-active stats_dislikes" data-action="/287629/dislike" data-id="287629" data-value="0">
+         <span class="stats-i">
+          42
+         </span>
+        </div>
+        <div class="stats-i-container stats_views">
+         <span class="stats-i">
+          1499
+         </span>
+        </div>
+       </div>
+       <div class="news-i-audio">
+       </div>
+      </div>
+      <div class="news-i">
+       <a class="news-i-inner" href="/sport/287611">
+        <div class="news-i-img-container">
+         <div class="news-i-img" style="background-image: url(https://assets.oxu.az/uploads/W1siZiIsIjIwMTgvMTIvMDUvMTYvNTQvMTIvNmEyYTk4MTktZGVjNC00ZGJmLWFhYmQtNDg1MWQ5ZDhjN2VlLzkwYjI1ZWJjZGU3MWRiZWZjZWY5YjliMzg5ZTIuanBlZyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDgwIl0sWyJwIiwidGh1bWIiLCI2MjB4NDY1XHUwMDNlIl1d?sha=16bde4982ef61e55)">
+         </div>
+        </div>
+        <div class="news-i-content">
+         <div class="when">
+          <div class="when-date">
+           <div class="date-day">
+            5&amp;nbsp
+           </div>
+           <div class="date-month">
+            Dek
+           </div>
+           <div class="date-year">
+            2018
+           </div>
+          </div>
+          <div class="when-time">
+           18:06
+          </div>
+         </div>
+         <div class="title">
+          \xe2\x80\x9cBavariya\xe2\x80\x9d Ronaldudan niy\xc9\x99 imtina etdi?
+         </div>
+         <div class="description">
+         </div>
+        </div>
+       </a>
+       <div class="stats">
+        <div class="stats-i-container stats-like-active stats_likes" data-action="/287611/like" data-id="287611" data-value="1">
+         <span class="stats-i">
+          69
+         </span>
+        </div>
+        <div class="stats-i-container stats-like-active stats_dislikes" data-action="/287611/dislike" data-id="287611" data-value="0">
+         <span class="stats-i">
+          60
+         </span>
+        </div>
+        <div class="stats-i-container stats_views">
+         <span class="stats-i">
+          6282
+         </span>
+        </div>
+       </div>
+       <div class="news-i-audio">
+       </div>
+      </div>
+      <div class="news-i">
+       <a class="news-i-inner" href="/society/287628">
+        <div class="news-i-img-container">
+         <div class="news-i-img" style="background-image: url(https://assets.oxu.az/uploads/W1siZiIsIjIwMTgvMTIvMDUvMTcvNTcvMDMvMTQ3NGRmN2YtOGZkNC00NDI4LThhNTctZWM3ZWQ1NzIwZTBhL3NoZWhpZDIxNTI0MTI4MzIxMTUyNDIxMjc5My5qcGciXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4MCJdLFsicCIsInRodW1iIiwiNjIweDQ2NVx1MDAzZSJdXQ?sha=692f5e05a10cf5a0)">
+         </div>
+        </div>
+        <div class="news-i-content">
+         <div class="when">
+          <div class="when-date">
+           <div class="date-day">
+            5&amp;nbsp
+           </div>
+           <div class="date-month">
+            Dek
+           </div>
+           <div class="date-year">
+            2018
+           </div>
+          </div>
+          <div class="when-time">
+           17:55
+          </div>
+         </div>
+         <div class="title">
+          \xc5\x9e\xc9\x99hid qarda\xc5\x9f\xc4\xb1n\xc4\xb1n \xc5\x9fikay\xc9\x99ti ara\xc5\x9fd\xc4\xb1r\xc4\xb1ld\xc4\xb1 - R\xc6\x8fSM\xc4\xb0
+         </div>
+         <div class="description">
+         </div>
+        </div>
+       </a>
+       <div class="stats">
+        <div class="stats-i-container stats-like-active stats_likes" data-action="/287628/like" data-id="287628" data-value="1">
+         <span class="stats-i">
+          209
+         </span>
+        </div>
+        <div class="stats-i-container stats-like-active stats_dislikes" data-action="/287628/dislike" data-id="287628" data-value="0">
+         <span class="stats-i">
+          34
+         </span>
+        </div>
+        <div class="stats-i-container stats_views">
+         <span class="stats-i">
+          7147
+         </span>
+        </div>
+       </div>
+       <div class="news-i-audio">
+       </div>
+      </div>
+      <div class="news-i">
+       <a class="news-i-inner" href="/criminal/287618">
+        <div class="news-i-img-container">
+         <div class="news-i-img" style="background-image: url(https://assets.oxu.az/uploads/W1siZiIsIjIwMTgvMTIvMDUvMTcvMTIvMDEvZDFhYTJiNmYtZjAwZS00OGYwLThmMzYtNDc1MDliYjZkZDZiLzM2NTA1LmpwZyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDgwIl0sWyJwIiwidGh1bWIiLCI2MjB4NDY1XHUwMDNlIl1d?sha=51d90e28ed3bdeb2)">
+         </div>
+        </div>
+        <div class="news-i-content">
+         <div class="when">
+          <div class="when-date">
+           <div class="date-day">
+            5&amp;nbsp
+           </div>
+           <div class="date-month">
+            Dek
+           </div>
+           <div class="date-year">
+            2018
+           </div>
+          </div>
+          <div class="when-time">
+           17:49
+          </div>
+         </div>
+         <div class="title">
+          R\xc3\xbc\xc5\x9fv\xc9\x99t\xc9\x99 g\xc3\xb6r\xc9\x99 h\xc9\x99bs edil\xc9\x99n icra n\xc3\xbcmay\xc9\x99nd\xc9\x99si hakim qar\xc5\x9f\xc4\xb1s\xc4\xb1nda
+         </div>
+         <div class="description">
+         </div>
+        </div>
+       </a>
+       <div class="stats">
+        <div class="stats-i-container stats-like-active stats_likes" data-action="/287618/like" data-id="287618" data-value="1">
+         <span class="stats-i">
+          145
+         </span>
+        </div>
+        <div class="stats-i-container stats-like-active stats_dislikes" data-action="/287618/dislike" data-id="287618" data-value="0">
+         <span class="stats-i">
+          33
+         </span>
+        </div>
+        <div class="stats-i-container stats_views">
+         <span class="stats-i">
+          3653
+         </span>
+        </div>
+       </div>
+       <div class="news-i-audio">
+       </div>
+      </div>
+      <div class="news-i">
+       <a class="news-i-inner" href="/society/287605">
+        <div class="news-i-img-container">
+         <div class="news-i-img" style="background-image: url(https://assets.oxu.az/uploads/W1siZiIsIjIwMTgvMTIvMDUvMTcvMzgvMjEvZTlhZWRlZGYtOWNkMS00ZDlkLTgzNTgtYzA5MTE2MzY0NjQzL2FsaTQuanBnIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiLXF1YWxpdHkgODAiXSxbInAiLCJ0aHVtYiIsIjYyMHg0NjVcdTAwM2UiXV0?sha=28964f07bde197a9)">
+         </div>
+        </div>
+        <div class="news-i-content">
+         <div class="when">
+          <div class="when-date">
+           <div class="date-day">
+            5&amp;nbsp
+           </div>
+           <div class="date-month">
+            Dek
+           </div>
+           <div class="date-year">
+            2018
+           </div>
+          </div>
+          <div class="when-time">
+           17:40
+          </div>
+         </div>
+         <div class="title">
+          Balaca \xc6\x8flinin sizin k\xc3\xb6m\xc9\x99yiniz\xc9\x99 ehtiyac\xc4\xb1 var
+         </div>
+         <div class="description">
+         </div>
+        </div>
+       </a>
+       <div class="stats">
+        <div class="stats-i-container stats-like-active stats_likes" data-action="/287605/like" data-id="287605" data-value="1">
+         <span class="stats-i">
+          228
+         </span>
+        </div>
+        <div class="stats-i-container stats-like-active stats_dislikes" data-action="/287605/dislike" data-id="287605" data-value="0">
+         <span class="stats-i">
+          30
+         </span>
+        </div>
+        <div class="stats-i-container stats_views">
+         <span class="stats-i">
+          3813
+         </span>
+        </div>
+       </div>
+       <div class="news-i-audio">
+       </div>
+      </div>
+      <nav class="pagination">
+       <div class="more-container next">
+        <a class="more" data-remote="true" href="/?cursor=1544017200" rel="next">
+         <span class="translation_missing" title="translation missing: az.application.paginator.more">
+          More
+         </span>
+        </a>
+       </div>
+      </nav>
+      <div class="pagination_loading" style="display: none">
+       <img alt="" src="https://assets.oxu.az/assets/loading-f6ecff617ec2ba7f559e6f535cad9b70a3f91120737535dab4d4548a6c83576c.gif"/>
+       \xd3\x98vv\xc9\x99lki x\xc9\x99b\xc9\x99rl\xc9\x99r y\xc3\xbckl\xc9\x99nir
+      </div>
+     </section>
+    </div>
+    <div class="list-bnrs-container">
+     <div class="news-i news-i_bnrs load-bnr news-i_bnrs_1col">
+      <!--/*\n  *\n  * Revive Adserver Asynchronous JS Tag\n  * - Generated with Revive Adserver v3.2.4\n  *\n  */-->
+      \n\n
+      <ins data-revive-id="ac32dd91205982a13d2787f486af04f0" data-revive-videoheight="auto" data-revive-videowidth="640" data-revive-zoneid="918">
+      </ins>
+      \n
+      <script async="" src="//ads2.newmedia.az/www/delivery/asyncjs.php">
+      </script>
+      \n
+     </div>
+     <div class="news-i news-i_bnrs load-bnr news-i_bnrs_4col">
+      <!--/*\n  *\n  * Revive Adserver Asynchronous JS Tag\n  * - Generated with Revive Adserver v3.2.4\n  *\n  */-->
+      \n\n
+      <ins data-revive-id="ac32dd91205982a13d2787f486af04f0" data-revive-videoheight="auto" data-revive-videowidth="640" data-revive-zoneid="908">
+      </ins>
+      \n
+      <script async="" src="//ads2.newmedia.az/www/delivery/asyncjs.php">
+      </script>
+      \n
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class="footer-container">
+   <footer class="footer l-center">
+    <div class="engage">
+     <a class="engage-i engage-i_facebook" href="//facebook.com/421309791269484" target="_blank">
+      Facebook
+     </a>
+     <a class="engage-i engage-i_twitter" href="//twitter.com/oxuaz" target="_blank">
+      Twitter
+     </a>
+     <a class="engage-i engage-i_android" href="https://play.google.com/store/apps/details?id=az.start.android.oxu" target="_blank">
+      Android App
+     </a>
+     <a class="engage-i engage-i_ios" href="https://itunes.apple.com/app/id634362981" target="_blank">
+      iOS App
+     </a>
+    </div>
+    <div class="copy-and-email">
+     <span class="copy">
+      \xc2\xa9 Oxu.az, 2013\xe2\x80\x942018
+     </span>
+     M\xc9\x99lumatdan istifad\xc9\x99 etdikd\xc9\x99 istinad m\xc3\xbctl\xc9\x99qdir.
+     <nobr>
+      (055) 224-76-86,
+     </nobr>
+     <a class="footer-email" href="mailto:info@oxu.az">
+      info@oxu.az
+     </a>
+     <div class="article-counter">
+      \n
+      <div class="LiveInternetOxuAz">
+      </div>
+      \n
+      <!--LiveInternet logo-->
+      <a class="LiveInternetOxuAzOld" href="http://www.liveinternet.ru/rating/az/media/month.html" target="_blank">
+       <img alt="" border="0" height="120" src="//counter.yadro.ru/logo?29.1" title="LiveInternet: \xd0\xbf\xd0\xbe\xd0\xba\xd0\xb0\xd0\xb7\xd0\xb0\xd0\xbd\xd0\xbe \xd0\xba\xd0\xbe\xd0\xbb\xd0\xb8\xd1\x87\xd0\xb5\xd1\x81\xd1\x82\xd0\xb2\xd0\xbe \xd0\xbf\xd1\x80\xd0\xbe\xd1\x81\xd0\xbc\xd0\xbe\xd1\x82\xd1\x80\xd0\xbe\xd0\xb2 \xd0\xb8 \xd0\xbf\xd0\xbe\xd1\x81\xd0\xb5\xd1\x82\xd0\xb8\xd1\x82\xd0\xb5\xd0\xbb\xd0\xb5\xd0\xb9" width="88"/>
+      </a>
+      <!--/LiveInternet-->
+      \n
+     </div>
+     \n
+    </div>
+   </footer>
+  </div>
+  <div class="bg-bnr-container">
+   <!--/*\n  *\n  * Revive Adserver Asynchronous JS Tag\n  * - Generated with Revive Adserver v3.2.4\n  *\n  */-->
+   \n\n
+   <ins data-revive-id="ac32dd91205982a13d2787f486af04f0" data-revive-videoheight="auto" data-revive-videowidth="640" data-revive-zoneid="914">
+   </ins>
+   \n
+   <script async="" src="//ads2.newmedia.az/www/delivery/asyncjs.php">
+   </script>
+   \n
+  </div>
+  '
+ </body>
+</html>
